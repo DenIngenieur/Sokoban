@@ -1,0 +1,30 @@
+Het doel van het spel is de kisten op de gemarkeerde plaats te krijgen. 
+U kunt slechts 1 kist per keer verschuiven, en u kunt alleen maar duwen,
+niet trekken, zodat u moet oppassen dat u de zaak niet klem zet.
+
+Bewegen kan met de pijltjestoetsen. 
+
+U kunt een spel kiezen uit de lijst en dan beginnen.
+
+De 'OOOOOOOOOPS !!' knop laat u toe om zetten terug te nemen (omdat ik 
+zelf weet dat fouten snel gemaakt zijn en bijzonder irritant is dat je 
+dan helemaal moet herbeginnen).
+
+Men kan zelf puzzels toevoegen in de map puzzels.
+De filenaam moet van de vorm XXXXX.txt zijn,
+met XXXXX = een nummer of een tekst.
+Enkel gewone tekstfiles zijn bruikbaar !
+Verder moet de layout aan volgende voorwaarden voldoen:
+- iedere lijn bevat volgende karakters (zonder de ''):
+    ' ' = BLANK 
+    '#' = MUUR
+    '@' = WERKMENSCH	 
+    '$' = BOX
+    '.' = REK
+    '*' = BOX OP REK
+- liefst geen lege lijnen voor of na
+
+De aanwezige puzzels komen van de volgende site:
+http://users.bentonrea.com/~sasquatch/sokoban/
+
+Volgens de heer Skinner (webmaster) zijn alle puzzels op te lossen.
